@@ -1,0 +1,10 @@
+D:\Curso C#\ConsoleApp2\Praticando\bin\Debug\netcoreapp2.1\Praticando.deps.json
+D:\Curso C#\ConsoleApp2\Praticando\bin\Debug\netcoreapp2.1\Praticando.runtimeconfig.json
+D:\Curso C#\ConsoleApp2\Praticando\bin\Debug\netcoreapp2.1\Praticando.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp2\Praticando\bin\Debug\netcoreapp2.1\Praticando.dll
+D:\Curso C#\ConsoleApp2\Praticando\bin\Debug\netcoreapp2.1\Praticando.pdb
+D:\Curso C#\ConsoleApp2\Praticando\obj\Debug\netcoreapp2.1\Praticando.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp2\Praticando\obj\Debug\netcoreapp2.1\Praticando.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp2\Praticando\obj\Debug\netcoreapp2.1\Praticando.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp2\Praticando\obj\Debug\netcoreapp2.1\Praticando.dll
+D:\Curso C#\ConsoleApp2\Praticando\obj\Debug\netcoreapp2.1\Praticando.pdb

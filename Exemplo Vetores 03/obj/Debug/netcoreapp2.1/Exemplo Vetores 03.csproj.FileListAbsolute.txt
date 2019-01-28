@@ -1,0 +1,11 @@
+D:\Curso C#\ConsoleApp2\Exemplo Vetores 03\bin\Debug\netcoreapp2.1\Exemplo Vetores 03.deps.json
+D:\Curso C#\ConsoleApp2\Exemplo Vetores 03\bin\Debug\netcoreapp2.1\Exemplo Vetores 03.runtimeconfig.json
+D:\Curso C#\ConsoleApp2\Exemplo Vetores 03\bin\Debug\netcoreapp2.1\Exemplo Vetores 03.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp2\Exemplo Vetores 03\bin\Debug\netcoreapp2.1\Exemplo Vetores 03.dll
+D:\Curso C#\ConsoleApp2\Exemplo Vetores 03\bin\Debug\netcoreapp2.1\Exemplo Vetores 03.pdb
+D:\Curso C#\ConsoleApp2\Exemplo Vetores 03\obj\Debug\netcoreapp2.1\Exemplo Vetores 03.csprojAssemblyReference.cache
+D:\Curso C#\ConsoleApp2\Exemplo Vetores 03\obj\Debug\netcoreapp2.1\Exemplo Vetores 03.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp2\Exemplo Vetores 03\obj\Debug\netcoreapp2.1\Exemplo Vetores 03.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp2\Exemplo Vetores 03\obj\Debug\netcoreapp2.1\Exemplo Vetores 03.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp2\Exemplo Vetores 03\obj\Debug\netcoreapp2.1\Exemplo Vetores 03.dll
+D:\Curso C#\ConsoleApp2\Exemplo Vetores 03\obj\Debug\netcoreapp2.1\Exemplo Vetores 03.pdb

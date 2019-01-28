@@ -1,0 +1,11 @@
+D:\Curso C#\ConsoleApp2\ExercicioFixaçãoVetores01\bin\Debug\netcoreapp2.1\ExercicioFixaçãoVetores01.deps.json
+D:\Curso C#\ConsoleApp2\ExercicioFixaçãoVetores01\bin\Debug\netcoreapp2.1\ExercicioFixaçãoVetores01.runtimeconfig.json
+D:\Curso C#\ConsoleApp2\ExercicioFixaçãoVetores01\bin\Debug\netcoreapp2.1\ExercicioFixaçãoVetores01.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp2\ExercicioFixaçãoVetores01\bin\Debug\netcoreapp2.1\ExercicioFixaçãoVetores01.dll
+D:\Curso C#\ConsoleApp2\ExercicioFixaçãoVetores01\bin\Debug\netcoreapp2.1\ExercicioFixaçãoVetores01.pdb
+D:\Curso C#\ConsoleApp2\ExercicioFixaçãoVetores01\obj\Debug\netcoreapp2.1\ExercicioFixaçãoVetores01.csprojAssemblyReference.cache
+D:\Curso C#\ConsoleApp2\ExercicioFixaçãoVetores01\obj\Debug\netcoreapp2.1\ExercicioFixaçãoVetores01.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp2\ExercicioFixaçãoVetores01\obj\Debug\netcoreapp2.1\ExercicioFixaçãoVetores01.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp2\ExercicioFixaçãoVetores01\obj\Debug\netcoreapp2.1\ExercicioFixaçãoVetores01.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp2\ExercicioFixaçãoVetores01\obj\Debug\netcoreapp2.1\ExercicioFixaçãoVetores01.dll
+D:\Curso C#\ConsoleApp2\ExercicioFixaçãoVetores01\obj\Debug\netcoreapp2.1\ExercicioFixaçãoVetores01.pdb

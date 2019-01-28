@@ -1,0 +1,11 @@
+D:\Curso C#\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\Exemplo Struct.deps.json
+D:\Curso C#\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\Exemplo Struct.runtimeconfig.json
+D:\Curso C#\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\Exemplo Struct.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\Exemplo Struct.dll
+D:\Curso C#\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\Exemplo Struct.pdb
+D:\Curso C#\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\Exemplo Struct.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\Exemplo Struct.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\Exemplo Struct.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\Exemplo Struct.dll
+D:\Curso C#\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\Exemplo Struct.pdb
+D:\Curso C#\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\Exemplo Struct.csprojAssemblyReference.cache

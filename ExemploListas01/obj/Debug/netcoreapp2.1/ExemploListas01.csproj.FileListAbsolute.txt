@@ -1,0 +1,11 @@
+D:\Curso C#\ConsoleApp2\ExemploListas01\obj\Debug\netcoreapp2.1\ExemploListas01.csprojAssemblyReference.cache
+D:\Curso C#\ConsoleApp2\ExemploListas01\obj\Debug\netcoreapp2.1\ExemploListas01.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp2\ExemploListas01\obj\Debug\netcoreapp2.1\ExemploListas01.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp2\ExemploListas01\obj\Debug\netcoreapp2.1\ExemploListas01.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp2\ExemploListas01\bin\Debug\netcoreapp2.1\ExemploListas01.deps.json
+D:\Curso C#\ConsoleApp2\ExemploListas01\bin\Debug\netcoreapp2.1\ExemploListas01.runtimeconfig.json
+D:\Curso C#\ConsoleApp2\ExemploListas01\bin\Debug\netcoreapp2.1\ExemploListas01.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp2\ExemploListas01\bin\Debug\netcoreapp2.1\ExemploListas01.dll
+D:\Curso C#\ConsoleApp2\ExemploListas01\bin\Debug\netcoreapp2.1\ExemploListas01.pdb
+D:\Curso C#\ConsoleApp2\ExemploListas01\obj\Debug\netcoreapp2.1\ExemploListas01.dll
+D:\Curso C#\ConsoleApp2\ExemploListas01\obj\Debug\netcoreapp2.1\ExemploListas01.pdb

@@ -1,0 +1,10 @@
+D:\Curso C#\ConsoleApp2\Matrizes\bin\Debug\netcoreapp2.1\Matrizes.deps.json
+D:\Curso C#\ConsoleApp2\Matrizes\bin\Debug\netcoreapp2.1\Matrizes.runtimeconfig.json
+D:\Curso C#\ConsoleApp2\Matrizes\bin\Debug\netcoreapp2.1\Matrizes.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp2\Matrizes\bin\Debug\netcoreapp2.1\Matrizes.dll
+D:\Curso C#\ConsoleApp2\Matrizes\bin\Debug\netcoreapp2.1\Matrizes.pdb
+D:\Curso C#\ConsoleApp2\Matrizes\obj\Debug\netcoreapp2.1\Matrizes.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp2\Matrizes\obj\Debug\netcoreapp2.1\Matrizes.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp2\Matrizes\obj\Debug\netcoreapp2.1\Matrizes.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp2\Matrizes\obj\Debug\netcoreapp2.1\Matrizes.dll
+D:\Curso C#\ConsoleApp2\Matrizes\obj\Debug\netcoreapp2.1\Matrizes.pdb
