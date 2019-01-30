@@ -1,0 +1,11 @@
+D:\Curso C#\ConsoleApp2\ExemploEnum01\bin\Debug\netcoreapp2.1\ExemploEnum01.deps.json
+D:\Curso C#\ConsoleApp2\ExemploEnum01\bin\Debug\netcoreapp2.1\ExemploEnum01.runtimeconfig.json
+D:\Curso C#\ConsoleApp2\ExemploEnum01\bin\Debug\netcoreapp2.1\ExemploEnum01.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp2\ExemploEnum01\bin\Debug\netcoreapp2.1\ExemploEnum01.dll
+D:\Curso C#\ConsoleApp2\ExemploEnum01\bin\Debug\netcoreapp2.1\ExemploEnum01.pdb
+D:\Curso C#\ConsoleApp2\ExemploEnum01\obj\Debug\netcoreapp2.1\ExemploEnum01.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp2\ExemploEnum01\obj\Debug\netcoreapp2.1\ExemploEnum01.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp2\ExemploEnum01\obj\Debug\netcoreapp2.1\ExemploEnum01.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp2\ExemploEnum01\obj\Debug\netcoreapp2.1\ExemploEnum01.dll
+D:\Curso C#\ConsoleApp2\ExemploEnum01\obj\Debug\netcoreapp2.1\ExemploEnum01.pdb
+D:\Curso C#\ConsoleApp2\ExemploEnum01\obj\Debug\netcoreapp2.1\ExemploEnum01.csprojAssemblyReference.cache
