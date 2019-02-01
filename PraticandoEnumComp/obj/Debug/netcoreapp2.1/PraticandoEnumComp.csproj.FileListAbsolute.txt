@@ -1,0 +1,11 @@
+D:\Curso C#\ConsoleApp2\PraticandoEnumComp\bin\Debug\netcoreapp2.1\PraticandoEnumComp.deps.json
+D:\Curso C#\ConsoleApp2\PraticandoEnumComp\bin\Debug\netcoreapp2.1\PraticandoEnumComp.runtimeconfig.json
+D:\Curso C#\ConsoleApp2\PraticandoEnumComp\bin\Debug\netcoreapp2.1\PraticandoEnumComp.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp2\PraticandoEnumComp\bin\Debug\netcoreapp2.1\PraticandoEnumComp.dll
+D:\Curso C#\ConsoleApp2\PraticandoEnumComp\bin\Debug\netcoreapp2.1\PraticandoEnumComp.pdb
+D:\Curso C#\ConsoleApp2\PraticandoEnumComp\obj\Debug\netcoreapp2.1\PraticandoEnumComp.csprojAssemblyReference.cache
+D:\Curso C#\ConsoleApp2\PraticandoEnumComp\obj\Debug\netcoreapp2.1\PraticandoEnumComp.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp2\PraticandoEnumComp\obj\Debug\netcoreapp2.1\PraticandoEnumComp.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp2\PraticandoEnumComp\obj\Debug\netcoreapp2.1\PraticandoEnumComp.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp2\PraticandoEnumComp\obj\Debug\netcoreapp2.1\PraticandoEnumComp.dll
+D:\Curso C#\ConsoleApp2\PraticandoEnumComp\obj\Debug\netcoreapp2.1\PraticandoEnumComp.pdb

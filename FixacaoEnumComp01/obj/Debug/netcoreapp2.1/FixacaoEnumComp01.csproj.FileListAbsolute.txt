@@ -1,0 +1,11 @@
+D:\Curso C#\ConsoleApp2\FixacaoEnumComp01\bin\Debug\netcoreapp2.1\FixacaoEnumComp01.deps.json
+D:\Curso C#\ConsoleApp2\FixacaoEnumComp01\bin\Debug\netcoreapp2.1\FixacaoEnumComp01.runtimeconfig.json
+D:\Curso C#\ConsoleApp2\FixacaoEnumComp01\bin\Debug\netcoreapp2.1\FixacaoEnumComp01.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp2\FixacaoEnumComp01\bin\Debug\netcoreapp2.1\FixacaoEnumComp01.dll
+D:\Curso C#\ConsoleApp2\FixacaoEnumComp01\bin\Debug\netcoreapp2.1\FixacaoEnumComp01.pdb
+D:\Curso C#\ConsoleApp2\FixacaoEnumComp01\obj\Debug\netcoreapp2.1\FixacaoEnumComp01.csprojAssemblyReference.cache
+D:\Curso C#\ConsoleApp2\FixacaoEnumComp01\obj\Debug\netcoreapp2.1\FixacaoEnumComp01.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp2\FixacaoEnumComp01\obj\Debug\netcoreapp2.1\FixacaoEnumComp01.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp2\FixacaoEnumComp01\obj\Debug\netcoreapp2.1\FixacaoEnumComp01.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp2\FixacaoEnumComp01\obj\Debug\netcoreapp2.1\FixacaoEnumComp01.dll
+D:\Curso C#\ConsoleApp2\FixacaoEnumComp01\obj\Debug\netcoreapp2.1\FixacaoEnumComp01.pdb

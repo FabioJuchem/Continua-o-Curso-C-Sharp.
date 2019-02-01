@@ -1,0 +1,11 @@
+D:\Curso C#\ConsoleApp2\ExercicioEnumComp02\bin\Debug\netcoreapp2.1\ExercicioEnumComp02.deps.json
+D:\Curso C#\ConsoleApp2\ExercicioEnumComp02\bin\Debug\netcoreapp2.1\ExercicioEnumComp02.runtimeconfig.json
+D:\Curso C#\ConsoleApp2\ExercicioEnumComp02\bin\Debug\netcoreapp2.1\ExercicioEnumComp02.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp2\ExercicioEnumComp02\bin\Debug\netcoreapp2.1\ExercicioEnumComp02.dll
+D:\Curso C#\ConsoleApp2\ExercicioEnumComp02\bin\Debug\netcoreapp2.1\ExercicioEnumComp02.pdb
+D:\Curso C#\ConsoleApp2\ExercicioEnumComp02\obj\Debug\netcoreapp2.1\ExercicioEnumComp02.csprojAssemblyReference.cache
+D:\Curso C#\ConsoleApp2\ExercicioEnumComp02\obj\Debug\netcoreapp2.1\ExercicioEnumComp02.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp2\ExercicioEnumComp02\obj\Debug\netcoreapp2.1\ExercicioEnumComp02.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp2\ExercicioEnumComp02\obj\Debug\netcoreapp2.1\ExercicioEnumComp02.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp2\ExercicioEnumComp02\obj\Debug\netcoreapp2.1\ExercicioEnumComp02.dll
+D:\Curso C#\ConsoleApp2\ExercicioEnumComp02\obj\Debug\netcoreapp2.1\ExercicioEnumComp02.pdb
