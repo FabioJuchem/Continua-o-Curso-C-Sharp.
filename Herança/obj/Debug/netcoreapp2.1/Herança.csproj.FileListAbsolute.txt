@@ -1,0 +1,11 @@
+D:\Curso C#\ConsoleApp2\Herança\bin\Debug\netcoreapp2.1\Herança.deps.json
+D:\Curso C#\ConsoleApp2\Herança\bin\Debug\netcoreapp2.1\Herança.runtimeconfig.json
+D:\Curso C#\ConsoleApp2\Herança\bin\Debug\netcoreapp2.1\Herança.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp2\Herança\bin\Debug\netcoreapp2.1\Herança.dll
+D:\Curso C#\ConsoleApp2\Herança\bin\Debug\netcoreapp2.1\Herança.pdb
+D:\Curso C#\ConsoleApp2\Herança\obj\Debug\netcoreapp2.1\Herança.csprojAssemblyReference.cache
+D:\Curso C#\ConsoleApp2\Herança\obj\Debug\netcoreapp2.1\Herança.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp2\Herança\obj\Debug\netcoreapp2.1\Herança.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp2\Herança\obj\Debug\netcoreapp2.1\Herança.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp2\Herança\obj\Debug\netcoreapp2.1\Herança.dll
+D:\Curso C#\ConsoleApp2\Herança\obj\Debug\netcoreapp2.1\Herança.pdb

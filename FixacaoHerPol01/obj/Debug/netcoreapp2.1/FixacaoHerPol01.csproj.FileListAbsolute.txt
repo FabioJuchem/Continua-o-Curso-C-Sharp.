@@ -1,0 +1,11 @@
+D:\Curso C#\ConsoleApp2\FixacaoHerPol01\bin\Debug\netcoreapp2.1\FixacaoHerPol01.deps.json
+D:\Curso C#\ConsoleApp2\FixacaoHerPol01\bin\Debug\netcoreapp2.1\FixacaoHerPol01.runtimeconfig.json
+D:\Curso C#\ConsoleApp2\FixacaoHerPol01\bin\Debug\netcoreapp2.1\FixacaoHerPol01.runtimeconfig.dev.json
+D:\Curso C#\ConsoleApp2\FixacaoHerPol01\bin\Debug\netcoreapp2.1\FixacaoHerPol01.dll
+D:\Curso C#\ConsoleApp2\FixacaoHerPol01\bin\Debug\netcoreapp2.1\FixacaoHerPol01.pdb
+D:\Curso C#\ConsoleApp2\FixacaoHerPol01\obj\Debug\netcoreapp2.1\FixacaoHerPol01.csproj.CoreCompileInputs.cache
+D:\Curso C#\ConsoleApp2\FixacaoHerPol01\obj\Debug\netcoreapp2.1\FixacaoHerPol01.AssemblyInfoInputs.cache
+D:\Curso C#\ConsoleApp2\FixacaoHerPol01\obj\Debug\netcoreapp2.1\FixacaoHerPol01.AssemblyInfo.cs
+D:\Curso C#\ConsoleApp2\FixacaoHerPol01\obj\Debug\netcoreapp2.1\FixacaoHerPol01.dll
+D:\Curso C#\ConsoleApp2\FixacaoHerPol01\obj\Debug\netcoreapp2.1\FixacaoHerPol01.pdb
+D:\Curso C#\ConsoleApp2\FixacaoHerPol01\obj\Debug\netcoreapp2.1\FixacaoHerPol01.csprojAssemblyReference.cache
